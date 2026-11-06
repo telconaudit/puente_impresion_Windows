@@ -14,4 +14,5 @@ Para quitar el puente, ejecuta `Uninstall-Bridge.ps1`.
 
 Este paquete requiere Windows, la extensión del navegador y una impresora instalada y configurada en el sistema. La prueba de apertura debe confirmarse con la impresora y el cajón conectados.
 
-SHA-256 del ZIP: `$hash`
+SHA-256 del ZIP: `03549EAF5D6D32A970905DBA2B7815394CC7C35EC1C8D0A7A38C2C0AA783A7C2`
+
